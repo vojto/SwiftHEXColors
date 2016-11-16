@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "84B79F861C058E4400CAF4AA"
-               BuildableName = "SwiftHEXColors.framework"
-               BlueprintName = "SwiftHEXColors"
+               BuildableName = "SwiftHEXColors-iOS.framework"
+               BlueprintName = "SwiftHEXColors-iOS"
                ReferencedContainer = "container:SwiftHEXColors.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -43,8 +43,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84B79F861C058E4400CAF4AA"
-            BuildableName = "SwiftHEXColors.framework"
-            BlueprintName = "SwiftHEXColors"
+            BuildableName = "SwiftHEXColors-iOS.framework"
+            BlueprintName = "SwiftHEXColors-iOS"
             ReferencedContainer = "container:SwiftHEXColors.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -65,8 +65,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84B79F861C058E4400CAF4AA"
-            BuildableName = "SwiftHEXColors.framework"
-            BlueprintName = "SwiftHEXColors"
+            BuildableName = "SwiftHEXColors-iOS.framework"
+            BlueprintName = "SwiftHEXColors-iOS"
             ReferencedContainer = "container:SwiftHEXColors.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -83,8 +83,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "84B79F861C058E4400CAF4AA"
-            BuildableName = "SwiftHEXColors.framework"
-            BlueprintName = "SwiftHEXColors"
+            BuildableName = "SwiftHEXColors-iOS.framework"
+            BlueprintName = "SwiftHEXColors-iOS"
             ReferencedContainer = "container:SwiftHEXColors.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
